@@ -1,0 +1,44 @@
+body{
+    font-family: 'Kodchasan', sans-serif;
+    background-image: url("fun.gif");
+    color: wheat;
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    text-decoration-line: underline;
+}
+
+.header {
+    text-align: right;
+    font-size: 20px
+}
+
+a:link, a:visited {
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+a:hover, a:active {
+    background-color: blue;
+  }
+
+h4{
+    margin-left: 32%;
+    font-size: 25px;
+  }
+
+h5{
+    margin-left: 32%;
+    font-size: 25px;
+  }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
